@@ -1,5 +1,5 @@
 # Digital-Clock
-<b>This repository contains a digital clock implemented using HTML, CSS, and JavaScript. It displays the current time in a digital format on a web page.<br>
+<b>This repository contains a digital clock implemented using HTML, CSS, and javascript. It displays the current time in a digital format on a web page.<br>
 
 <b><h1>FEATURES :</h1><br>
 
